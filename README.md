@@ -34,43 +34,43 @@ I specialize in **AWS, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 
 ## 📂 Projects
 
-### [Cloud Infrastructure Automation](./Projects/cloud-infra-automation)  
+### [- Cloud Infrastructure Automation](./Projects/cloud-infra-automation)  
 - **Tech:** Terraform · AWS CLI · Bash  
 - **Summary:** Built a multi-tier cloud environment with networking, compute, and database resources.  
 
 ---
 
-### [System Configuration & Management](./Projects/system-config-management)  
+### [- System Configuration & Management](./Projects/system-config-management)  
 - **Tech:** Ansible · Bash · YAML  
 - **Summary:** Developed reusable automation scripts and roles for system setup and hardening.  
 
 ---
 
-### [Continuous Integration & Delivery](./Projects/ci-cd-pipelines)  
+### [- Continuous Integration & Delivery](./Projects/ci-cd-pipelines)  
 - **Tech:** GitHub Actions · Docker · Bash  
 - **Summary:** Implemented automated build, test, and deployment workflows for applications.  
 
 ---
 
-### [Containerized Application Deployments](./Projects/containerized-deployments)  
+### [- Containerized Application Deployments](./Projects/containerized-deployments)  
 - **Tech:** Docker · Kubernetes · IaC · AWS CLI  
 - **Summary:** Deployed and managed containerized applications on a scalable orchestration platform.  
 
 ---
 
-### [Monitoring & Observability](./Projects/monitoring-observability)  
+### [- Monitoring & Observability](./Projects/monitoring-observability)  
 - **Tech:** Prometheus · Grafana · ELK  
 - **Summary:** Implemented monitoring dashboards and log pipelines with alerting mechanisms.  
 
 ---
 
-### [Security & Compliance Automation](./Projects/security-compliance-automation)  
+### [- Security & Compliance Automation](./Projects/security-compliance-automation)  
 - **Tech:** IAM · Vault · Trivy  
 - **Summary:** Automated identity policies, secrets management, and vulnerability scanning.  
 
 ---
 
-### [Scripting & Utilities](./Projects/scripting-utilities)  
+### [- Scripting & Utilities](./Projects/scripting-utilities)  
 - **Tech:** Bash · Python  
 - **Summary:** Created helper scripts and automation tools for repetitive infrastructure tasks.  
 
