@@ -13,12 +13,15 @@ I specialize in **AWS, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 
 ## 🧰 Tech Stack
 
-![Terraform](https://img.shields.io/badge/IaC-Terraform-blue) 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-orange) 
+![Terraform](https://img.shields.io/badge/IaC-Terraform-blue) 
 ![Ansible](https://img.shields.io/badge/CM-Ansible-red) 
-![Kubernetes](https://img.shields.io/badge/Containers-Kubernetes-blue) 
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-lightgrey) 
-![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-green)
+![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-green) 
+![Docker](https://img.shields.io/badge/Containers-Docker-blue) 
+![Kubernetes](https://img.shields.io/badge/Containers-Kubernetes-blue) 
+![Bash](https://img.shields.io/badge/Scripting-Bash-black) 
+![Python](https://img.shields.io/badge/Scripting-Python-yellow)
 
 - **Cloud**: AWS (VPC, EC2, RDS, S3, IAM, EKS)  
 - **IaC**: Terraform (modules, remote backend, workspaces)  
