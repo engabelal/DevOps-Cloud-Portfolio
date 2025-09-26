@@ -34,27 +34,45 @@ I specialize in **AWS, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 
 ## 📂 Projects
 
-### [Cloud Infrastructure with IaC](https://github.com/engabelal/aws-infra-terraform)  
+### [Cloud Infrastructure Automation](https://github.com/username/cloud-infra-automation)  
 **Tech:** Terraform · AWS CLI · Bash  
-Multi-tier VPC, EC2 Auto Scaling, RDS, Security Groups.  
+Built a multi-tier cloud environment with networking, compute, and database resources.  
 
 ---
 
-### [Ansible Automation Labs](https://github.com/engabelal/ansible-automation-labs)  
+### [System Configuration & Management](https://github.com/username/system-config-management)  
 **Tech:** Ansible · Bash · YAML  
-Roles for user management, package installation, and security hardening.  
+Developed reusable automation scripts and roles for system setup and hardening.  
 
 ---
 
-### [CI/CD](https://github.com/engabelal/devops-cicd-demos)  
+### [Continuous Integration & Delivery](https://github.com/username/ci-cd-pipelines)  
 **Tech:** GitHub Actions · Docker · Bash  
-Automated deployments using GitHub Actions workflows.  
+Implemented automated build, test, and deployment workflows for applications.  
 
 ---
 
-### [Kubernetes Deployments](https://github.com/engabelal/kubernetes-docker-labs)  
-**Tech:** Docker · Kubernetes · Terraform · AWS CLI  
-Dockerized app deployment on AWS EKS using Kubernetes manifests.  
+### [Containerized Application Deployments](https://github.com/username/containerized-app-deployments)  
+**Tech:** Docker · Kubernetes · IaC · AWS CLI  
+Deployed and managed containerized applications on a scalable orchestration platform.  
+
+---
+
+### [Monitoring & Observability](https://github.com/username/monitoring-observability)  
+**Tech:** Prometheus · Grafana · ELK  
+Implemented monitoring dashboards and log pipelines with alerting mechanisms.  
+
+---
+
+### [Security & Compliance Automation](https://github.com/username/security-compliance-automation)  
+**Tech:** IAM · Vault · Trivy  
+Automated identity policies, secrets management, and vulnerability scanning.  
+
+---
+
+### [Scripting & Utilities](https://github.com/username/scripting-utilities)  
+**Tech:** Bash · Python  
+Created helper scripts and automation tools for repetitive infrastructure tasks.  
 ---
 
 ## 📷 Visuals
