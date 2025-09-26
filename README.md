@@ -27,58 +27,52 @@ I specialize in **AWS, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 
 ## 📂 Projects
 
-### [- Cloud Infrastructure Automation](./Projects/cloud-infra-automation)  
+### [Infrastructure as Code (Cloud & On-Prem)](./Projects/infrastructure-as-code)  
 - **Tech:** Terraform · AWS CLI · Bash  
 - **Summary:** Built a multi-tier cloud environment with networking, compute, and database resources.  
+- **Outcome:** ✅ Infrastructure provisioned consistently across cloud and on-prem environments.  
 
 ---
 
-### [- System Configuration & Management](./Projects/system-config-management)  
+### [Automated Infrastructure Configuration & Standardization](./Projects/infrastructure-config-standardization)  
 - **Tech:** Ansible · Bash · YAML  
 - **Summary:** Developed reusable automation scripts and roles for system setup and hardening.  
+- **Outcome:** ✅ Systems configured automatically with standardized and secure baselines.  
 
 ---
 
-### [- Continuous Integration & Delivery](./Projects/ci-cd-pipelines)  
+### [Automated CI/CD Pipelines](./Projects/ci-cd-pipelines)  
 - **Tech:** GitHub Actions · Docker · Bash  
 - **Summary:** Implemented automated build, test, and deployment workflows for applications.  
+- **Outcome:** ✅ Reliable CI/CD pipelines triggered on code changes with automated deployments.  
 
 ---
 
-### [- Containerized Application Deployments](./Projects/containerized-deployments)  
+### [Containerized Application Deployment & Orchestration](./Projects/container-deployment-orchestration)  
 - **Tech:** Docker · Kubernetes · IaC · AWS CLI  
 - **Summary:** Deployed and managed containerized applications on a scalable orchestration platform.  
+- **Outcome:** ✅ Applications deployed, scaled, and orchestrated successfully across environments.  
 
 ---
 
-### [- Monitoring & Observability](./Projects/monitoring-observability)  
+### [Automated Monitoring & Observability](./Projects/monitoring-observability)  
 - **Tech:** Prometheus · Grafana · ELK  
 - **Summary:** Implemented monitoring dashboards and log pipelines with alerting mechanisms.  
+- **Outcome:** ✅ Real-time metrics, logs, and alerts centralized for full observability.  
 
 ---
 
-### [- Security & Compliance Automation](./Projects/security-compliance-automation)  
+### [Automated Security & Compliance](./Projects/security-compliance-automation)  
 - **Tech:** IAM · Vault · Trivy  
 - **Summary:** Automated identity policies, secrets management, and vulnerability scanning.  
+- **Outcome:** ✅ Security baselines and compliance standards enforced automatically.  
 
 ---
 
-### [- Scripting & Utilities](./Projects/scripting-utilities)  
+### [Automation Scripting & Utilities](./Projects/scripting-utilities)  
 - **Tech:** Bash · Python  
 - **Summary:** Created helper scripts and automation tools for repetitive infrastructure tasks.  
-
----
-
-## 📷 Visuals
-
-_Adding diagrams & screenshots makes projects clearer for HR/managers._  
-
-Example placeholders (replace with your images):  
-
-![AWS Terraform Architecture](./images/aws-terraform-diagram.png)  
-![Ansible Run Example](./images/ansible-run.png)  
-![GitHub Actions Pipeline](./images/github-actions-pipeline.png)  
-
+- **Outcome:** ✅ Reduced manual effort and improved efficiency through reusable scripts.  
 ---
 
 ## 📞 Contact
