@@ -15,7 +15,7 @@ I specialize in **AWS, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 
 | Domain                   | Tools & Technologies                                                                 |
 |--------------------------|---------------------------------------------------------------------------------------|
-| **Cloud**                | ![AWS](https://img.shields.io/badge/Cloud-AWS-orange)                                |
+| **Cloud**                | ![AWS](https://img.shields.io/badge/Cloud-AWS-orange) ![Azure](https://img.shields.io/badge/Cloud-Azure-blue)                                 |
 | **IaC**                  | ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue)                        |
 | **Configuration Mgmt**   | ![Ansible](https://img.shields.io/badge/CM-Ansible-red)                              |
 | **CI/CD**                | ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-lightgrey) ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-green) |
