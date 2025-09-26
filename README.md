@@ -34,16 +34,15 @@ I specialize in **AWS, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 
 ## 📂 Projects
 
+### [AWS Infrastructure with Terraform](https://github.com/engabelal/aws-infra-terraform)  
+- **Tech:** Terraform · AWS CLI · Bash  
+- **Summary:** Multi-tier VPC, EC2 Auto Scaling, RDS, Security Groups  
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [AWS Infrastructure with Terraform](https://github.com/engabelal/aws-infra-terraform) | Terraform · AWS CLI · Bash | Multi-tier VPC, EC2 Auto Scaling, RDS, Security Groups |
-| [Ansible Automation Labs](https://github.com/engabelal/ansible-automation-labs) | Ansible · YAML · Bash | Roles for user management, package installation, security hardening |
-| [CI/CD with GitHub Actions](https://github.com/engabelal/devops-cicd-demos) | GitHub Actions · Docker · Bash | Automated deployments using GitHub Actions workflows |
-| [Kubernetes Deployments](https://github.com/engabelal/kubernetes-docker-labs) | Docker · Kubernetes · Helm | Dockerized app deployment on AWS EKS |
-| [AWS CLI Automation Scripts](https://github.com/engabelal/aws-cli-tools) | AWS CLI · Bash | Custom CLI scripts for automating AWS resource management |
-| [Monitoring Stack](https://github.com/engabelal/monitoring-stack) | Prometheus · Grafana · Bash | Monitoring solution with dashboards and alerting |
+---
 
+### [Ansible Automation Labs](https://github.com/engabelal/ansible-automation-labs)  
+- **Tech:** Ansible · Bash · YAML  
+- **Summary:** Roles for user management, package installation, security hardening  
 ---
 
 ## 📷 Visuals
