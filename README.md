@@ -13,7 +13,7 @@ I specialize in **AWS, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 
 ## 🧰 Tech Stack
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-orange) 
+![AWS/Azure](https://img.shields.io/badge/Cloud-AWS-orange) 
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue) 
 ![Ansible](https://img.shields.io/badge/CM-Ansible-red) 
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-lightgrey) 
