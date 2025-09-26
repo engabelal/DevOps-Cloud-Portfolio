@@ -35,44 +35,45 @@ I specialize in **AWS, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 ## 📂 Projects
 
 ### [Cloud Infrastructure Automation](https://github.com/username/cloud-infra-automation)  
-**Tech:** Terraform · AWS CLI · Bash  
-Built a multi-tier cloud environment with networking, compute, and database resources.  
+- **Tech:** Terraform · AWS CLI · Bash  
+- **Summary:** Built a multi-tier cloud environment with networking, compute, and database resources.  
 
 ---
 
 ### [System Configuration & Management](https://github.com/username/system-config-management)  
-**Tech:** Ansible · Bash · YAML  
-Developed reusable automation scripts and roles for system setup and hardening.  
+- **Tech:** Ansible · Bash · YAML  
+- **Summary:** Developed reusable automation scripts and roles for system setup and hardening.  
 
 ---
 
 ### [Continuous Integration & Delivery](https://github.com/username/ci-cd-pipelines)  
-**Tech:** GitHub Actions · Docker · Bash  
-Implemented automated build, test, and deployment workflows for applications.  
+- **Tech:** GitHub Actions · Docker · Bash  
+- **Summary:** Implemented automated build, test, and deployment workflows for applications.  
 
 ---
 
 ### [Containerized Application Deployments](https://github.com/username/containerized-app-deployments)  
-**Tech:** Docker · Kubernetes · IaC · AWS CLI  
-Deployed and managed containerized applications on a scalable orchestration platform.  
+- **Tech:** Docker · Kubernetes · IaC · AWS CLI  
+- **Summary:** Deployed and managed containerized applications on a scalable orchestration platform.  
 
 ---
 
 ### [Monitoring & Observability](https://github.com/username/monitoring-observability)  
-**Tech:** Prometheus · Grafana · ELK  
-Implemented monitoring dashboards and log pipelines with alerting mechanisms.  
+- **Tech:** Prometheus · Grafana · ELK  
+- **Summary:** Implemented monitoring dashboards and log pipelines with alerting mechanisms.  
 
 ---
 
 ### [Security & Compliance Automation](https://github.com/username/security-compliance-automation)  
-**Tech:** IAM · Vault · Trivy  
-Automated identity policies, secrets management, and vulnerability scanning.  
+- **Tech:** IAM · Vault · Trivy  
+- **Summary:** Automated identity policies, secrets management, and vulnerability scanning.  
 
 ---
 
 ### [Scripting & Utilities](https://github.com/username/scripting-utilities)  
-**Tech:** Bash · Python  
-Created helper scripts and automation tools for repetitive infrastructure tasks.  
+- **Tech:** Bash · Python  
+- **Summary:** Created helper scripts and automation tools for repetitive infrastructure tasks.  
+
 ---
 
 ## 📷 Visuals
@@ -88,5 +89,5 @@ Example placeholders (replace with your images):
 ---
 
 ## 📞 Contact
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Email**: your.email@example.com  
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/engabelal/)  
+- **Email**: eng.abelal@gmail.com 
