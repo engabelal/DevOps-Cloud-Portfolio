@@ -59,7 +59,7 @@ The variables `vsphere_user`, `vsphere_password`, and `vsphere_server` are requi
 ## Usage
 1. Navigate to the project directory:
    ```bash
-   cd My-DevOps-Labs-Repo/Terraform-Projects/opentext-iam-patch-terraform
+   cd DevOps-Cloud-Portfolio/Projects/infrastructure-as-code/opentext-iam-patch-terraform-vm-provisioning
    ```
 2. Initialize Terraform (downloads providers and sets up the working directory):
    ```bash
