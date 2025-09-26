@@ -34,6 +34,21 @@ The configuration clones Red Hat Enterprise Linux 9.4 virtual machines from an e
 - **`modules/vm`** resolves the datacenter, cluster, datastore, template, and network, then clones one VM per hostname in `vm_list`.
 - **`environments/*.tfvars`** hold per-site inventory, compute sizing, and placement (populate with non-sensitive values before use).
 
+## Architecture Overview
+```mermaid
+graph TD
+    TFVars[[Environment tfvars<br/>(prod / dr / uat)]] --> Root[Root module<br/>`main.tf`]
+    Root --> Module[Reusable VM module<br/>`modules/vm`]
+    Module --> Provider[vSphere provider<br/>`provider.tf`]
+    Provider --> Template[Clone from<br/>`rhel-9.4-template`]
+    Template --> Network[Attach NIC to<br/>`mf-network-vlan201`]
+    Template --> Custom{Customization spec?<br/>`customization_spec_name`}
+    Network --> VMs[Provisioned VMs<br/>per `vm_list`]
+    Custom --> VMs
+```
+
+The diagram shows how environment-specific configuration feeds the root module, which delegates VM provisioning to the reusable module. The module interacts with the vSphere provider to clone the `rhel-9.4-template`, connects each VM to `mf-network-vlan201`, and optionally applies a customization spec when `customization_spec_name` is supplied.
+
 ## Variable Reference
 These variables must be provided (directly or via tfvars files). Items without defaults are required.
 
