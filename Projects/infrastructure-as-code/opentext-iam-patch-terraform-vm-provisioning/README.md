@@ -37,7 +37,7 @@ The configuration clones Red Hat Enterprise Linux 9.4 virtual machines from an e
 ## Architecture Overview
 ```mermaid
 graph TD
-    TFVars["Environment tfvars / prod, dr, uat"] --> Root["Root module (main.tf)"]
+    TFVars["Environment tfvars (PROD, DR, UAT)"] --> Root["Root module (main.tf)"]
     Root --> Module["Reusable VM module (modules/vm)"]
     Module --> Provider["vSphere provider (provider.tf)"]
     Provider --> Template["Clone from rhel-9.4-template"]
