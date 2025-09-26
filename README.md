@@ -1,4 +1,4 @@
-# 🚀 DevOps & Cloud Portfolio
+# 🚀 DevOps & Cloud Public Portfolio
 
 This is my **central portfolio** showcasing hands-on projects in **DevOps & Cloud Engineering**.  
 It highlights my work with **Infrastructure as Code (IaC)**, **automation**, **CI/CD pipelines**, and **container orchestration**.  
