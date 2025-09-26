@@ -34,15 +34,27 @@ I specialize in **AWS, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 
 ## 📂 Projects
 
-### [AWS Infrastructure with Terraform](https://github.com/engabelal/aws-infra-terraform)  
-- **Tech:** Terraform · AWS CLI · Bash  
-- **Summary:** Multi-tier VPC, EC2 Auto Scaling, RDS, Security Groups  
+### [Cloud Infrastructure with IaC](https://github.com/engabelal/aws-infra-terraform)  
+**Tech:** Terraform · AWS CLI · Bash  
+Multi-tier VPC, EC2 Auto Scaling, RDS, Security Groups.  
 
 ---
 
 ### [Ansible Automation Labs](https://github.com/engabelal/ansible-automation-labs)  
-- **Tech:** Ansible · Bash · YAML  
-- **Summary:** Roles for user management, package installation, security hardening  
+**Tech:** Ansible · Bash · YAML  
+Roles for user management, package installation, and security hardening.  
+
+---
+
+### [CI/CD](https://github.com/engabelal/devops-cicd-demos)  
+**Tech:** GitHub Actions · Docker · Bash  
+Automated deployments using GitHub Actions workflows.  
+
+---
+
+### [Kubernetes Deployments](https://github.com/engabelal/kubernetes-docker-labs)  
+**Tech:** Docker · Kubernetes · Terraform · AWS CLI  
+Dockerized app deployment on AWS EKS using Kubernetes manifests.  
 ---
 
 ## 📷 Visuals
