@@ -25,7 +25,7 @@ I specialize in **AWS, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 
 ---
 
-## 📂 Projects
+## 🗂️ Projects
 
 ### [Infrastructure as Code (Cloud & On-Prem)](./Projects/infrastructure-as-code)  
 - **Tech:** Terraform · AWS CLI · Bash  
