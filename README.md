@@ -1,4 +1,4 @@
-# 🚀 DevOps & Cloud Portfolio
+## ⚙️ DevOps & Cloud Portfolio
 
 This is my **central portfolio** showcasing hands-on projects in **DevOps & Cloud Engineering**.  
 It highlights my work with **Infrastructure as Code (IaC)**, **automation**, **CI/CD pipelines**, and **container orchestration**.  
@@ -63,7 +63,7 @@ I specialize in **AWS, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 ---
 
 ### [Automated Security & Compliance](./Projects/security-compliance-automation)  
-- **Tech:** IAM · Vault · Trivy  
+- **Tech:** IAM 
 - **Summary:** Automated identity policies, secrets management, and vulnerability scanning.  
 - **Outcome:** ✅ Security baselines and compliance standards enforced automatically.  
 
