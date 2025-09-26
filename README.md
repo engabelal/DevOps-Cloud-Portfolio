@@ -89,5 +89,5 @@ Example placeholders (replace with your images):
 ---
 
 ## 📞 Contact
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/engabelal/)  
+- **LinkedIn**: [linkedin.com/in/engabelal](https://linkedin.com/in/engabelal/)  
 - **Email**: eng.abelal@gmail.com 
