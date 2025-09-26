@@ -13,22 +13,15 @@ I specialize in **AWS, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 
 ## 🧰 Tech Stack
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-blue) 
-![Ansible](https://img.shields.io/badge/CM-Ansible-red) 
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-lightgrey) 
-![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-green) 
-![Docker](https://img.shields.io/badge/Containers-Docker-blue) 
-![Kubernetes](https://img.shields.io/badge/Containers-Kubernetes-blue) 
-![Bash](https://img.shields.io/badge/Scripting-Bash-black) 
-![Python](https://img.shields.io/badge/Scripting-Python-yellow)
-
-- **Cloud**: AWS (VPC, EC2, RDS, S3, IAM, EKS)  
-- **IaC**: Terraform (modules, remote backend, workspaces)  
-- **Configuration Management**: Ansible (roles, playbooks, Vault)  
-- **CI/CD**: GitHub Actions, Jenkins  
-- **Containers**: Docker, Kubernetes (EKS)  
-- **Scripting & Automation**: Bash, Python  
+| Domain                   | Tools & Technologies                                                                 |
+|--------------------------|---------------------------------------------------------------------------------------|
+| **Cloud**                | ![AWS](https://img.shields.io/badge/Cloud-AWS-orange)                                |
+| **IaC**                  | ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue)                        |
+| **Configuration Mgmt**   | ![Ansible](https://img.shields.io/badge/CM-Ansible-red)                              |
+| **CI/CD**                | ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-lightgrey) ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-green) |
+| **Containers**           | ![Docker](https://img.shields.io/badge/Containers-Docker-blue) ![Docker Compose](https://img.shields.io/badge/Containers-Docker_Compose-lightblue) ![Kubernetes](https://img.shields.io/badge/Containers-Kubernetes-blue) |
+| **Scripting & Automation** | ![Bash](https://img.shields.io/badge/Scripting-Bash-black) ![Python](https://img.shields.io/badge/Scripting-Python-yellow) |
+| **Core Tools**           | ![Linux](https://img.shields.io/badge/OS-Linux-grey) ![Git](https://img.shields.io/badge/SCM-Git-red) ![VS Code](https://img.shields.io/badge/Editor-VS_Code-blue) |
 
 ---
 
