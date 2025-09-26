@@ -37,13 +37,13 @@ The configuration clones Red Hat Enterprise Linux 9.4 virtual machines from an e
 ## Architecture Overview
 ```mermaid
 graph TD
-    TFVars[[Environment tfvars<br/>(prod / dr / uat)]] --> Root[Root module<br/>`main.tf`]
-    Root --> Module[Reusable VM module<br/>`modules/vm`]
-    Module --> Provider[vSphere provider<br/>`provider.tf`]
-    Provider --> Template[Clone from<br/>`rhel-9.4-template`]
-    Template --> Network[Attach NIC to<br/>`mf-network-vlan201`]
-    Template --> Custom{Customization spec?<br/>`customization_spec_name`}
-    Network --> VMs[Provisioned VMs<br/>per `vm_list`]
+    TFVars["Environment tfvars\n(prod / dr / uat)"] --> Root["Root module\nmain.tf"]
+    Root --> Module["Reusable VM module\nmodules/vm"]
+    Module --> Provider["vSphere provider\nprovider.tf"]
+    Provider --> Template["Clone from\nrhel-9.4-template"]
+    Template --> Network["Attach NIC to\nmf-network-vlan201"]
+    Template --> Custom{"Customization spec?\ncustomization_spec_name"}
+    Network --> VMs["Provisioned VMs\nper vm_list"]
     Custom --> VMs
 ```
 
