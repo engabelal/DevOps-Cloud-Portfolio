@@ -36,6 +36,15 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 git clone https://github.com/username/aws-vpc-terraform.git
 ```
 ---
+### ✅ [AWS VPC Automation with Terraform](https://github.com/username/aws-vpc-terraform)  
+- **Tech:** Terraform · AWS CLI · Bash  
+- **Summary:** Provisioned a multi-tier VPC with subnets, NAT Gateway, and security groups.  
+
+📌 **Clone this project**
+```bash
+git clone https://github.com/username/aws-vpc-terraform.git
+```
+---
 
 ## 📞 Contact
 - **LinkedIn**: [linkedin.com/in/engabelal](https://linkedin.com/in/engabelal/)  
