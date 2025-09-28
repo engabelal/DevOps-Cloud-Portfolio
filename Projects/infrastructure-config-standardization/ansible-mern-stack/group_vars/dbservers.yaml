@@ -1,2 +1,0 @@
-mongodb_bind_ip: "0.0.0.0"   # or private CIDR for tighter security
-deploy_custom_page: false    # web role flag, irrelevant here
