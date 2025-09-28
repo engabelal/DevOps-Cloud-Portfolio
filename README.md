@@ -27,6 +27,15 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 
 ## 🗂️ Projects
 
+### ✅ [Serverless Event Registration & Winner Selection – AWS](https://github.com/engabelal/iac-aws-serverless-event)  
+- **Tech:** Terraform · AWS Lambda · API Gateway · DynamoDB · S3 · CloudFront  
+- **Summary:** Infrastructure as Code project to provision a complete serverless application for event registration and winner selection. Includes API Gateway routes, Lambda functions, DynamoDB table, and static frontend hosted on S3 with CloudFront CDN.  
+
+📌 **Clone this project**
+```bash
+git clone https://github.com/engabelal/iac-aws-serverless-event.git
+```
+---
 ### ✅ [OpenText IAM & Patch Terraform Deployment - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov)  
 - **Tech:** Terraform · Bash · VMware  
 - **Summary:** Terraform code for provisioning RHEL 9.4 VMs on VMware vSphere.Originally part of the OpenText IAM & Patch Management project.  
