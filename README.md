@@ -36,13 +36,13 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 git clone https://github.com/engabelal/iac-vmware-tf-vmprov.git
 ```
 ---
-### ✅ [AWS VPC Automation with Terraform](https://github.com/engabelal/iac-vmware-tf-vmprov.git)  
-- **Tech:** Terraform · AWS CLI · Bash  
-- **Summary:** Provisioned a multi-tier VPC with subnets, NAT Gateway, and security groups.  
+### ✅ [Provision MERN Stack with Ansible ](https://github.com/engabelal/cm-ansible-mern-stack)  
+- **Tech:** Ansible · YAML · Bash  
+- **Summary:** Automated provisioning of a complete MERN stack (MongoDB, Express, React, Node.js) lab environment using modular Ansible roles.  
 
 📌 **Clone this project**
 ```bash
-git clone https://github.com/engabelal/iac-vmware-tf-vmprov.git
+git clone https://github.com/engabelal/cm-ansible-mern-stack.git
 ```
 ---
 
