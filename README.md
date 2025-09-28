@@ -27,52 +27,14 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 
 ## 🗂️ Projects
 
-### [Infrastructure as Code (Cloud & On-Prem)](./Projects/infrastructure-as-code)  
+### AWS VPC Automation with Terraform
+- **Repo:** [github.com/username/aws-vpc-terraform](https://github.com/username/aws-vpc-terraform)  
 - **Tech:** Terraform · AWS CLI · Bash  
-- **Summary:** Built a multi-tier cloud environment with networking, compute, and database resources.  
-- **Outcome:** ✅ Infrastructure provisioned consistently across cloud and on-prem environments.  
+- **Summary:** Provisioned a multi-tier VPC with subnets, NAT Gateway, and security groups.  
 
----
+```bash
+git clone https://github.com/username/aws-vpc-terraform.git
 
-### [Automated Infrastructure Configuration & Standardization](./Projects/infrastructure-config-standardization)  
-- **Tech:** Ansible · Bash · YAML  
-- **Summary:** Developed reusable automation scripts and roles for system setup and hardening.  
-- **Outcome:** ✅ Systems configured automatically with standardized and secure baselines.  
-
----
-
-### [Automated CI/CD Pipelines](./Projects/ci-cd-pipelines)  
-- **Tech:** GitHub Actions · Docker · Bash  
-- **Summary:** Implemented automated build, test, and deployment workflows for applications.  
-- **Outcome:** ✅ Reliable CI/CD pipelines triggered on code changes with automated deployments.  
-
----
-
-### [Containerized Application Deployment & Orchestration](./Projects/container-deployment-orchestration)  
-- **Tech:** Docker · Kubernetes · IaC · AWS CLI  
-- **Summary:** Deployed and managed containerized applications on a scalable orchestration platform.  
-- **Outcome:** ✅ Applications deployed, scaled, and orchestrated successfully across environments.  
-
----
-
-### [Automated Monitoring & Observability](./Projects/monitoring-observability)  
-- **Tech:** Prometheus · Grafana · ELK  
-- **Summary:** Implemented monitoring dashboards and log pipelines with alerting mechanisms.  
-- **Outcome:** ✅ Real-time metrics, logs, and alerts centralized for full observability.  
-
----
-
-### [Automated Security & Compliance](./Projects/security-compliance-automation)  
-- **Tech:** IAM 
-- **Summary:** Automated identity policies, secrets management, and vulnerability scanning.  
-- **Outcome:** ✅ Security baselines and compliance standards enforced automatically.  
-
----
-
-### [Automation Scripting & Utilities](./Projects/scripting-utilities)  
-- **Tech:** Bash · Python  
-- **Summary:** Created helper scripts and automation tools for repetitive infrastructure tasks.  
-- **Outcome:** ✅ Reduced manual effort and improved efficiency through reusable scripts.  
 ---
 
 ## 📞 Contact
