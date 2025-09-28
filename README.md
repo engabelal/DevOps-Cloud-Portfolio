@@ -27,22 +27,23 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 
 ## 🗂️ Projects
 
-### ✅ [AWS VPC Automation with Terraform](https://github.com/username/aws-vpc-terraform)  
-- **Tech:** Terraform · AWS CLI · Bash  
-- **Summary:** Provisioned a multi-tier VPC with subnets, NAT Gateway, and security groups.  
+### ✅ [OpenText IAM & Patch Terraform Deployment - VMware](https://github.com/username/aws-vpc-terraform)  
+- **Tech:** Terraform · Bash . VMware  
+- **Summary:** Terraform code for provisioning RHEL 9.4 VMs on VMware vSphere.  
+Originally part of the OpenText IAM & Patch Management initiative 
 
 📌 **Clone this project**
 ```bash
 git clone https://github.com/username/aws-vpc-terraform.git
 ```
 ---
-### ✅ [AWS VPC Automation with Terraform](https://github.com/username/aws-vpc-terraform)  
+### ✅ [AWS VPC Automation with Terraform](https://github.com/engabelal/iac-vmware-tf-vmprov.git)  
 - **Tech:** Terraform · AWS CLI · Bash  
 - **Summary:** Provisioned a multi-tier VPC with subnets, NAT Gateway, and security groups.  
 
 📌 **Clone this project**
 ```bash
-git clone https://github.com/username/aws-vpc-terraform.git
+git clone https://github.com/engabelal/iac-vmware-tf-vmprov.git
 ```
 ---
 
