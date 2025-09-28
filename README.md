@@ -27,8 +27,7 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 
 ## 🗂️ Projects
 
-### AWS VPC Automation with Terraform
-- **Repo:** [github.com/username/aws-vpc-terraform](https://github.com/username/aws-vpc-terraform)  
+### [AWS VPC Automation with Terraform](https://github.com/username/aws-vpc-terraform) 
 - **Tech:** Terraform · AWS CLI · Bash  
 - **Summary:** Provisioned a multi-tier VPC with subnets, NAT Gateway, and security groups.  
 
