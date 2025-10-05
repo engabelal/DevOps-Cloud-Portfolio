@@ -27,6 +27,15 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 
 ## 🗂️ Projects
 
+### ✅ [Simple Web App on AWS EC2 Auto Scaling with NLB](./Portfolio-Projects/Simple%20Web%20App%20on%20AWS%20EC2%20Auto%20Scaling%20with%20NLB/)  
+- **Tech:** Terraform · AWS EC2 · Auto Scaling · Network Load Balancer · VPC · NAT Gateway · Multi-AZ  
+- **Summary:** Production-ready AWS infrastructure with EC2 Auto Scaling Groups behind a Network Load Balancer. Features multi-AZ deployment, private subnets, NAT Gateway, and automated provisioning via Terraform. Supports dev/prod environments using tfvars files.  
+
+📌 **View project details**
+```bash
+cd "Portfolio-Projects/Simple Web App on AWS EC2 Auto Scaling with NLB"
+```
+---
 ### ✅ [Serverless Event Registration & Winner Selection – AWS](https://github.com/engabelal/iac-aws-serverless-event)  
 - **Tech:** Terraform · AWS Lambda · API Gateway · DynamoDB · S3 · CloudFront  
 - **Summary:** Infrastructure as Code project to provision a complete serverless application for event registration and winner selection. Includes API Gateway routes, Lambda functions, DynamoDB table, and static frontend hosted on S3 with CloudFront CDN.  
