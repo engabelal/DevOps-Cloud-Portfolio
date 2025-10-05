@@ -1,13 +1,13 @@
 # ⚙️ DevOps & Cloud Portfolio
 
-This is my **central portfolio** showcasing hands-on projects in **DevOps & Cloud Engineering**.  
-It highlights my work with **Infrastructure as Code (IaC)**, **automation**, **CI/CD pipelines**, and **container orchestration**.  
+This is my **central portfolio** showcasing hands-on projects in **DevOps & Cloud Engineering**.
+It highlights my work with **Infrastructure as Code (IaC)**, **automation**, **CI/CD pipelines**, and **container orchestration**.
 
 ---
 
 ## 📌 About Me
-Senior DevOps & Cloud Engineer passionate about **automation, scalability, and cloud-native solutions**.  
-I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.  
+Senior DevOps & Cloud Engineer passionate about **automation, scalability, and cloud-native solutions**.
+I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
 
 ---
 
@@ -27,36 +27,36 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 
 ## 🗂️ Projects
 
-### ✅ [Simple Web App on AWS EC2 Auto Scaling with NLB](./Portfolio-Projects/Simple%20Web%20App%20on%20AWS%20EC2%20Auto%20Scaling%20with%20NLB/)  
-- **Tech:** Terraform · AWS EC2 · Auto Scaling · Network Load Balancer · VPC · NAT Gateway · Multi-AZ  
-- **Summary:** Production-ready AWS infrastructure with EC2 Auto Scaling Groups behind a Network Load Balancer. Features multi-AZ deployment, private subnets, NAT Gateway, and automated provisioning via Terraform. Supports dev/prod environments using tfvars files.  
+### ✅ [Simple Web App on AWS EC2 Auto Scaling with NLB](https://github.com/engabelal/simple-webapp-ec2-nlb-asg)
+- **Tech:** Terraform · AWS EC2 · Auto Scaling · Network Load Balancer · VPC · NAT Gateway · Multi-AZ
+- **Summary:** Production-ready AWS infrastructure with EC2 Auto Scaling Groups behind a Network Load Balancer. Features multi-AZ deployment, private subnets, NAT Gateway, and automated provisioning via Terraform. Supports dev/prod environments using tfvars files.
 
-📌 **View project details**
+📌 **Clone this project**
 ```bash
-cd "Portfolio-Projects/Simple Web App on AWS EC2 Auto Scaling with NLB"
+git clone https://github.com/engabelal/simple-webapp-ec2-nlb-asg.git
 ```
 ---
-### ✅ [Serverless Event Registration & Winner Selection – AWS](https://github.com/engabelal/iac-aws-serverless-event)  
-- **Tech:** Terraform · AWS Lambda · API Gateway · DynamoDB · S3 · CloudFront  
-- **Summary:** Infrastructure as Code project to provision a complete serverless application for event registration and winner selection. Includes API Gateway routes, Lambda functions, DynamoDB table, and static frontend hosted on S3 with CloudFront CDN.  
+### ✅ [Serverless Event Registration & Winner Selection – AWS](https://github.com/engabelal/iac-aws-serverless-event)
+- **Tech:** Terraform · AWS Lambda · API Gateway · DynamoDB · S3 · CloudFront
+- **Summary:** Infrastructure as Code project to provision a complete serverless application for event registration and winner selection. Includes API Gateway routes, Lambda functions, DynamoDB table, and static frontend hosted on S3 with CloudFront CDN.
 
 📌 **Clone this project**
 ```bash
 git clone https://github.com/engabelal/iac-aws-serverless-event.git
 ```
 ---
-### ✅ [OpenText IAM & Patch Terraform Deployment - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov)  
-- **Tech:** Terraform · Bash · VMware  
-- **Summary:** Terraform code for provisioning RHEL 9.4 VMs on VMware vSphere.Originally part of the OpenText IAM & Patch Management project.  
+### ✅ [OpenText IAM & Patch Terraform Deployment - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov)
+- **Tech:** Terraform · Bash · VMware
+- **Summary:** Terraform code for provisioning RHEL 9.4 VMs on VMware vSphere.Originally part of the OpenText IAM & Patch Management project.
 
 📌 **Clone this project**
 ```bash
 git clone https://github.com/engabelal/iac-vmware-tf-vmprov.git
 ```
 ---
-### ✅ [Automated MERN Stack Deployment with Ansible ](https://github.com/engabelal/cm-ansible-mern-stack)  
-- **Tech:** Ansible · YAML · Bash  
-- **Summary:** Automated provisioning of a complete MERN stack (MongoDB, Express, React, Node.js) lab environment using modular Ansible roles.  
+### ✅ [Automated MERN Stack Deployment with Ansible ](https://github.com/engabelal/cm-ansible-mern-stack)
+- **Tech:** Ansible · YAML · Bash
+- **Summary:** Automated provisioning of a complete MERN stack (MongoDB, Express, React, Node.js) lab environment using modular Ansible roles.
 
 📌 **Clone this project**
 ```bash
@@ -65,5 +65,5 @@ git clone https://github.com/engabelal/cm-ansible-mern-stack.git
 ---
 
 ## 📞 Contact
-- **LinkedIn**: [linkedin.com/in/engabelal](https://linkedin.com/in/engabelal/)  
-- **Email**: eng.abelal@gmail.com 
+- **LinkedIn**: [linkedin.com/in/engabelal](https://linkedin.com/in/engabelal/)
+- **Email**: eng.abelal@gmail.com
