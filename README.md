@@ -63,6 +63,15 @@ git clone https://github.com/engabelal/iac-vmware-tf-vmprov.git
 git clone https://github.com/engabelal/cm-ansible-mern-stack.git
 ```
 ---
+### ✅ [Packer AWS DevOps Base AMI](https://github.com/engabelal/packer-aws-devops-ami)
+- **Tech:** Packer · AWS EC2 · Ubuntu · Shell Scripting · Infrastructure as Code
+- **Summary:** Automated Golden AMI creation using HashiCorp Packer. Builds production-ready Ubuntu 22.04 images with pre-installed DevOps tools (AWS CLI, Git, CloudWatch Agent, SSM Agent), security hardening (UFW, Fail2ban, SSH), and automatic updates. Reduces deployment time from 15 minutes to 60 seconds.
+
+📌 **Clone this project**
+```bash
+git clone https://github.com/engabelal/packer-aws-devops-ami.git
+```
+---
 
 ## 📞 Contact
 - **LinkedIn**: [linkedin.com/in/engabelal](https://linkedin.com/in/engabelal/)
