@@ -16,7 +16,7 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 | Domain                   | Tools & Technologies                                                                 |
 |--------------------------|---------------------------------------------------------------------------------------|
 | **Cloud**                | ![AWS](https://img.shields.io/badge/Cloud-AWS-orange) ![Azure](https://img.shields.io/badge/Cloud-Azure-blue)                                 |
-| **IaC**                  | ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue)                        |
+| **IaC**                  | ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue) ![Packer](https://img.shields.io/badge/IaC-Packer-02A8EF)                        |
 | **Configuration Mgmt**   | ![Ansible](https://img.shields.io/badge/CM-Ansible-red)                              |
 | **CI/CD**                | ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-lightgrey) ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-green) |
 | **Containers**           | ![Docker](https://img.shields.io/badge/Containers-Docker-blue) ![Docker Compose](https://img.shields.io/badge/Containers-Docker_Compose-lightblue) ![Kubernetes](https://img.shields.io/badge/Containers-Kubernetes-blue) |
@@ -64,7 +64,7 @@ git clone https://github.com/engabelal/cm-ansible-mern-stack.git
 ```
 ---
 ### ✅ [Packer AWS DevOps Base AMI](https://github.com/engabelal/packer-aws-devops-ami)
-- **Tech:** Packer · AWS EC2 · Ubuntu · Shell Scripting · Infrastructure as Code . Packer
+- **Tech:** Packer · AWS EC2 · Ubuntu · Shell Scripting · Infrastructure as Code
 - **Summary:** Automated Golden AMI creation using HashiCorp Packer. Builds production-ready Ubuntu 22.04 images with pre-installed DevOps tools (AWS CLI, Git, CloudWatch Agent, SSM Agent), security hardening (UFW, Fail2ban, SSH), and automatic updates. Reduces deployment time from 15 minutes to 60 seconds.
 
 📌 **Clone this project**
