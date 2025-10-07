@@ -13,16 +13,6 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 
 ---
 
-## 📈 Portfolio Overview
-
-- 🚀 **6 Projects** completed
-- ☁️ **3 Cloud Platforms** (AWS, Azure, VMware)
-- 🛠️ **15+ Tools** mastered
-- 💰 **Cost Optimization** expertise
-- 🔒 **Security-First** approach
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -45,7 +35,20 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 
 ---
 
-## 🗂️ Projects
+## 🗂️ Projects Overview
+
+| # | Project | Tech Stack | Description |
+|---|---------|------------|-------------|
+| 1 | [Simple Web App - EC2 ASG](https://github.com/engabelal/simple-webapp-ec2-nlb-asg) | Terraform · AWS · NLB | Auto-scaling web infrastructure with multi-AZ |
+| 2 | [Serverless Event Registration](https://github.com/engabelal/iac-aws-serverless-event) | Terraform · Lambda · DynamoDB | Serverless event management system |
+| 3 | [OpenText IAM - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov) | Terraform · VMware | RHEL VM provisioning on vSphere |
+| 4 | [MERN Stack - Ansible](https://github.com/engabelal/cm-ansible-mern-stack) | Ansible · YAML | Automated MERN stack deployment |
+| 5 | [Packer Golden AMI](https://github.com/engabelal/packer-aws-devops-ami) | Packer · AWS · Ubuntu | Automated DevOps AMI creation |
+| 6 | [ABCloudOps Scripts Kit](https://github.com/engabelal/abcloudops-scripts-kit) | Bash · AWS CLI | Cloud automation scripts toolkit |
+
+---
+
+## 📁 Projects Details
 
 ### ✅ [Simple Web App on AWS EC2 Auto Scaling with NLB](https://github.com/engabelal/simple-webapp-ec2-nlb-asg)
 - **Tech:** Terraform · AWS EC2 · Auto Scaling · Network Load Balancer · VPC · NAT Gateway · Multi-AZ
