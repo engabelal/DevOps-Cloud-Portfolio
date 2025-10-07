@@ -34,34 +34,38 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 
 ## 🧰 Tech Stack
 
-| Domain                   | Tools & Technologies                                                                 |
-|--------------------------|---------------------------------------------------------------------------------------|
-| **Cloud**                | ![AWS](https://img.shields.io/badge/Cloud-AWS-orange) ![Azure](https://img.shields.io/badge/Cloud-Azure-blue)                                 |
-| **IaC**                  | ![Terraform](https://img.shields.io/badge/IaC-Terraform-blue) ![Packer](https://img.shields.io/badge/IaC-Packer-02A8EF)                        |
-| **Configuration Mgmt**   | ![Ansible](https://img.shields.io/badge/CM-Ansible-red)                              |
-| **CI/CD**                | ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-lightgrey) ![Jenkins](https://img.shields.io/badge/CI%2FCD-Jenkins-green) |
-| **Containers**           | ![Docker](https://img.shields.io/badge/Containers-Docker-blue) ![Docker Compose](https://img.shields.io/badge/Containers-Docker_Compose-lightblue) ![Kubernetes](https://img.shields.io/badge/Containers-Kubernetes-blue) |
-| **Scripting & Automation** | ![Bash](https://img.shields.io/badge/Scripting-Bash-black) ![Python](https://img.shields.io/badge/Scripting-Python-yellow) |
-| **Core Tools**           | ![Linux](https://img.shields.io/badge/OS-Linux-grey) ![Git](https://img.shields.io/badge/SCM-Git-red) ![VS Code](https://img.shields.io/badge/Editor-VS_Code-blue) |
-
----
-
-## 💪 Skills & Expertise
+<p align="center">
 
 ### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Advanced-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-Expert-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Packer](https://img.shields.io/badge/Packer-Advanced-02A8EF?style=flat-square&logo=packer&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
 
 ### Configuration Management
-![Ansible](https://img.shields.io/badge/Ansible-Expert-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Scripting & Automation
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Core Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</p>
 
 ---
 
