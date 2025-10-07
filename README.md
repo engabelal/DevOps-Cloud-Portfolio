@@ -72,6 +72,15 @@ git clone https://github.com/engabelal/cm-ansible-mern-stack.git
 git clone https://github.com/engabelal/packer-aws-devops-ami.git
 ```
 ---
+### ✅ [ABCloudOps Scripts Kit](https://github.com/engabelal/abcloudops-scripts-kit)
+- **Tech:** Bash · Shell Scripting · AWS CLI · Linux · Automation
+- **Summary:** Production-ready DevOps automation scripts for cloud infrastructure management. Includes AWS cost optimization scanner, resource management tools, and system administration utilities. All scripts feature detailed documentation, color-coded output, and timestamped reports.
+
+📌 **Clone this project**
+```bash
+git clone https://github.com/engabelal/abcloudops-scripts-kit.git
+```
+---
 
 ## 📞 Contact
 - **LinkedIn**: [linkedin.com/in/engabelal](https://linkedin.com/in/engabelal/)
