@@ -1,5 +1,7 @@
 # ⚙️ DevOps & Cloud Portfolio
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=engabelal.devops-portfolio)
+
 This is my **central portfolio** showcasing hands-on projects in **DevOps & Cloud Engineering**.
 It highlights my work with **Infrastructure as Code (IaC)**, **automation**, **CI/CD pipelines**, and **container orchestration**.
 
@@ -8,6 +10,25 @@ It highlights my work with **Infrastructure as Code (IaC)**, **automation**, **C
 ## 📌 About Me
 Senior DevOps & Cloud Engineer passionate about **automation, scalability, and cloud-native solutions**.
 I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engabelal&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engabelal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Portfolio Overview
+
+- 🚀 **6 Projects** completed
+- ☁️ **3 Cloud Platforms** (AWS, Azure, VMware)
+- 🛠️ **15+ Tools** mastered
+- 💰 **Cost Optimization** expertise
+- 🔒 **Security-First** approach
 
 ---
 
@@ -22,6 +43,25 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 | **Containers**           | ![Docker](https://img.shields.io/badge/Containers-Docker-blue) ![Docker Compose](https://img.shields.io/badge/Containers-Docker_Compose-lightblue) ![Kubernetes](https://img.shields.io/badge/Containers-Kubernetes-blue) |
 | **Scripting & Automation** | ![Bash](https://img.shields.io/badge/Scripting-Bash-black) ![Python](https://img.shields.io/badge/Scripting-Python-yellow) |
 | **Core Tools**           | ![Linux](https://img.shields.io/badge/OS-Linux-grey) ![Git](https://img.shields.io/badge/SCM-Git-red) ![VS Code](https://img.shields.io/badge/Editor-VS_Code-blue) |
+
+---
+
+## 💪 Skills & Expertise
+
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Advanced-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+### Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-Expert-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-Advanced-02A8EF?style=flat-square&logo=packer&logoColor=white)
+
+### Configuration Management
+![Ansible](https://img.shields.io/badge/Ansible-Expert-EE0000?style=flat-square&logo=ansible&logoColor=white)
+
+### Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -80,6 +120,14 @@ git clone https://github.com/engabelal/packer-aws-devops-ami.git
 ```bash
 git clone https://github.com/engabelal/abcloudops-scripts-kit.git
 ```
+---
+
+## 🔗 Quick Links
+
+[📧 Email Me](mailto:eng.abelal@gmail.com) | 
+[💼 LinkedIn](https://linkedin.com/in/engabelal) | 
+[🐙 GitHub](https://github.com/engabelal)
+
 ---
 
 ## 📞 Contact
