@@ -39,17 +39,27 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 
 | # | Project | Tech Stack | Description |
 |---|---------|------------|-------------|
-| 1 | [Simple Web App - EC2 ASG](https://github.com/engabelal/simple-webapp-ec2-nlb-asg) | Terraform · AWS · NLB | Auto-scaling web infrastructure with multi-AZ |
-| 2 | [Serverless Event Registration](https://github.com/engabelal/iac-aws-serverless-event) | Terraform · Lambda · DynamoDB | Serverless event management system |
-| 3 | [OpenText IAM - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov) | Terraform · VMware | RHEL VM provisioning on vSphere |
-| 4 | [MERN Stack - Ansible](https://github.com/engabelal/cm-ansible-mern-stack) | Ansible · YAML | Automated MERN stack deployment |
-| 5 | [Packer Golden AMI](https://github.com/engabelal/packer-aws-devops-ami) | Packer · AWS · Ubuntu | Automated DevOps AMI creation |
-| 6 | [ABCloudOps Scripts Kit](https://github.com/engabelal/abcloudops-scripts-kit) | Bash · AWS CLI | Cloud automation scripts toolkit |
+| 1 | [Node.js CI/CD Pipeline](https://github.com/engabelal/simple-nodejs-ec2-cicd) | GitHub Actions · Terraform · AWS | Automated CI/CD with 13s updates |
+| 2 | [Simple Web App - EC2 ASG](https://github.com/engabelal/simple-webapp-ec2-nlb-asg) | Terraform · AWS · NLB | Auto-scaling web infrastructure with multi-AZ |
+| 3 | [Serverless Event Registration](https://github.com/engabelal/iac-aws-serverless-event) | Terraform · Lambda · DynamoDB | Serverless event management system |
+| 4 | [OpenText IAM - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov) | Terraform · VMware | RHEL VM provisioning on vSphere |
+| 5 | [MERN Stack - Ansible](https://github.com/engabelal/cm-ansible-mern-stack) | Ansible · YAML | Automated MERN stack deployment |
+| 6 | [Packer Golden AMI](https://github.com/engabelal/packer-aws-devops-ami) | Packer · AWS · Ubuntu | Automated DevOps AMI creation |
+| 7 | [ABCloudOps Scripts Kit](https://github.com/engabelal/abcloudops-scripts-kit) | Bash · AWS CLI | Cloud automation scripts toolkit |
 
 ---
 
 ## 📁 Projects Details
 
+### ✅ [Node.js CI/CD Pipeline to AWS EC2](https://github.com/engabelal/simple-nodejs-ec2-cicd)
+- **Tech:** GitHub Actions · Terraform · AWS EC2 · S3 · IAM · Systems Manager · Node.js
+- **Summary:** Production-ready CI/CD pipeline deploying Node.js applications to AWS EC2 with lightning-fast 13-second in-place updates. Features automated testing, artifact-based deployment, Infrastructure as Code with Terraform, and AWS Systems Manager for instant updates. Includes ABCloudOps Quote Generator demo app with professional UI.
+
+📌 **Clone this project**
+```bash
+git clone https://github.com/engabelal/simple-nodejs-ec2-cicd.git
+```
+---
 ### ✅ [Simple Web App on AWS EC2 Auto Scaling with NLB](https://github.com/engabelal/simple-webapp-ec2-nlb-asg)
 - **Tech:** Terraform · AWS EC2 · Auto Scaling · Network Load Balancer · VPC · NAT Gateway · Multi-AZ
 - **Summary:** Production-ready AWS infrastructure with EC2 Auto Scaling Groups behind a Network Load Balancer. Features multi-AZ deployment, private subnets, NAT Gateway, and automated provisioning via Terraform. Supports dev/prod environments using tfvars files.
