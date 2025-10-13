@@ -42,10 +42,11 @@ I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipeline
 | 1 | [Node.js CI/CD Pipeline](https://github.com/engabelal/simple-nodejs-ec2-cicd) | GitHub Actions · Terraform · AWS | Automated CI/CD with 13s updates |
 | 2 | [Simple Web App - EC2 ASG](https://github.com/engabelal/simple-webapp-ec2-nlb-asg) | Terraform · AWS · NLB | Auto-scaling web infrastructure with multi-AZ |
 | 3 | [Serverless Event Registration](https://github.com/engabelal/iac-aws-serverless-event) | Terraform · Lambda · DynamoDB | Serverless event management system |
-| 4 | [OpenText IAM - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov) | Terraform · VMware | RHEL VM provisioning on vSphere |
-| 5 | [MERN Stack - Ansible](https://github.com/engabelal/cm-ansible-mern-stack) | Ansible · YAML | Automated MERN stack deployment |
-| 6 | [Packer Golden AMI](https://github.com/engabelal/packer-aws-devops-ami) | Packer · AWS · Ubuntu | Automated DevOps AMI creation |
-| 7 | [ABCloudOps Scripts Kit](https://github.com/engabelal/abcloudops-scripts-kit) | Bash · AWS CLI | Cloud automation scripts toolkit |
+| 4 | [Ansible AWS Dynamic Inventory](https://github.com/engabelal/ansible-aws-inventory-demo) | Ansible · AWS EC2 · SSH | Dynamic inventory with bastion host |
+| 5 | [OpenText IAM - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov) | Terraform · VMware | RHEL VM provisioning on vSphere |
+| 6 | [MERN Stack - Ansible](https://github.com/engabelal/cm-ansible-mern-stack) | Ansible · YAML | Automated MERN stack deployment |
+| 7 | [Packer Golden AMI](https://github.com/engabelal/packer-aws-devops-ami) | Packer · AWS · Ubuntu | Automated DevOps AMI creation |
+| 8 | [ABCloudOps Scripts Kit](https://github.com/engabelal/abcloudops-scripts-kit) | Bash · AWS CLI | Cloud automation scripts toolkit |
 
 ---
 
@@ -76,6 +77,15 @@ git clone https://github.com/engabelal/simple-webapp-ec2-nlb-asg.git
 📌 **Clone this project**
 ```bash
 git clone https://github.com/engabelal/iac-aws-serverless-event.git
+```
+---
+### ✅ [Ansible AWS Dynamic Inventory Demo](https://github.com/engabelal/ansible-aws-inventory-demo)
+- **Tech:** Ansible · AWS EC2 · Dynamic Inventory · SSH ProxyCommand · Bastion Host
+- **Summary:** Production-grade infrastructure automation using Ansible with AWS EC2 dynamic inventory. Demonstrates secure SSH tunneling through bastion hosts, tag-based server grouping, and zero-maintenance inventory management. Features optimized SSH connection multiplexing and comprehensive configuration examples.
+
+📌 **Clone this project**
+```bash
+git clone https://github.com/engabelal/ansible-aws-inventory-demo.git
 ```
 ---
 ### ✅ [OpenText IAM & Patch Terraform Deployment - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov)
