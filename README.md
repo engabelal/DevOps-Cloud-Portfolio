@@ -1,128 +1,139 @@
-# ⚙️ DevOps & Cloud Portfolio
+# 🚀 DevOps & Cloud Engineering Portfolio
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=engabelal.devops-portfolio)
+Welcome to my portfolio repository showcasing real-world DevOps and Cloud Engineering projects.
 
-This is my **central portfolio** showcasing hands-on projects in **DevOps & Cloud Engineering**.
-It highlights my work with **Infrastructure as Code (IaC)**, **automation**, **CI/CD pipelines**, and **container orchestration**.
+## 👨‍💻 About Me
 
----
+**Ahmed Belal**  
+DevOps Engineer | Cloud Architect | Infrastructure Automation Specialist
 
-## 📌 About Me
-Senior DevOps & Cloud Engineer passionate about **automation, scalability, and cloud-native solutions**.
-I specialize in **AWS, Azure, Terraform, Ansible, Kubernetes, and CI/CD pipelines**.
+Passionate about building scalable, secure, and automated cloud infrastructure. Experienced in AWS, Ansible, Terraform, CI/CD pipelines, and containerization technologies.
 
 ---
 
-## 🧰 Tech Stack
+## 📂 Portfolio Projects
 
-<div align="center">
+### 🔧 [Ansible AWS Dynamic Inventory Demo](./Portfolio-Projects/ansible-aws-inventory-demo)
+**Production-grade infrastructure automation using Ansible with AWS EC2 dynamic inventory**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Technologies:** Ansible, AWS EC2, SSH ProxyCommand, Dynamic Inventory  
+**Highlights:**
+- ✅ Automated EC2 instance discovery and management
+- ✅ Secure SSH tunneling through bastion hosts
+- ✅ Tag-based server grouping (web, db, environments)
+- ✅ Zero-maintenance inventory management
+- ✅ Production-ready configuration patterns
 
-</div>
+**Skills Demonstrated:**
+- Infrastructure as Code (IaC)
+- AWS cloud architecture
+- Security best practices (bastion hosts, SSH keys)
+- Configuration management
+- DevOps automation workflows
 
----
-
-## 🗂️ Projects Overview
-
-| # | Project | Tech Stack | Description |
-|---|---------|------------|-------------|
-| 1 | [Node.js CI/CD Pipeline](https://github.com/engabelal/simple-nodejs-ec2-cicd) | GitHub Actions · Terraform · AWS | Automated CI/CD with 13s updates |
-| 2 | [Simple Web App - EC2 ASG](https://github.com/engabelal/simple-webapp-ec2-nlb-asg) | Terraform · AWS · NLB | Auto-scaling web infrastructure with multi-AZ |
-| 3 | [Serverless Event Registration](https://github.com/engabelal/iac-aws-serverless-event) | Terraform · Lambda · DynamoDB | Serverless event management system |
-| 4 | [OpenText IAM - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov) | Terraform · VMware | RHEL VM provisioning on vSphere |
-| 5 | [MERN Stack - Ansible](https://github.com/engabelal/cm-ansible-mern-stack) | Ansible · YAML | Automated MERN stack deployment |
-| 6 | [Packer Golden AMI](https://github.com/engabelal/packer-aws-devops-ami) | Packer · AWS · Ubuntu | Automated DevOps AMI creation |
-| 7 | [ABCloudOps Scripts Kit](https://github.com/engabelal/abcloudops-scripts-kit) | Bash · AWS CLI | Cloud automation scripts toolkit |
+[View Project →](./Portfolio-Projects/ansible-aws-inventory-demo)
 
 ---
 
-## 📁 Projects Details
+## 🛠️ Technical Skills
 
-### ✅ [Node.js CI/CD Pipeline to AWS EC2](https://github.com/engabelal/simple-nodejs-ec2-cicd)
-- **Tech:** GitHub Actions · Terraform · AWS EC2 · S3 · IAM · Systems Manager · Node.js
-- **Summary:** Production-ready CI/CD pipeline deploying Node.js applications to AWS EC2 with lightning-fast 13-second in-place updates. Features automated testing, artifact-based deployment, Infrastructure as Code with Terraform, and AWS Systems Manager for instant updates. Includes ABCloudOps Quote Generator demo app with professional UI.
+### Cloud Platforms
+- **AWS**: EC2, VPC, S3, IAM, CloudFormation, Systems Manager
+- **Azure**: Virtual Machines, Resource Groups, Azure DevOps
 
-📌 **Clone this project**
-```bash
-git clone https://github.com/engabelal/simple-nodejs-ec2-cicd.git
-```
----
-### ✅ [Simple Web App on AWS EC2 Auto Scaling with NLB](https://github.com/engabelal/simple-webapp-ec2-nlb-asg)
-- **Tech:** Terraform · AWS EC2 · Auto Scaling · Network Load Balancer · VPC · NAT Gateway · Multi-AZ
-- **Summary:** Production-ready AWS infrastructure with EC2 Auto Scaling Groups behind a Network Load Balancer. Features multi-AZ deployment, private subnets, NAT Gateway, and automated provisioning via Terraform. Supports dev/prod environments using tfvars files.
+### Infrastructure as Code
+- **Ansible**: Playbooks, Roles, Dynamic Inventory, Vault
+- **Terraform**: Modules, State Management, Workspaces
+- **CloudFormation**: Templates, Stacks, StackSets
 
-📌 **Clone this project**
-```bash
-git clone https://github.com/engabelal/simple-webapp-ec2-nlb-asg.git
-```
----
-### ✅ [Serverless Event Registration & Winner Selection – AWS](https://github.com/engabelal/iac-aws-serverless-event)
-- **Tech:** Terraform · AWS Lambda · API Gateway · DynamoDB · S3 · CloudFront
-- **Summary:** Infrastructure as Code project to provision a complete serverless application for event registration and winner selection. Includes API Gateway routes, Lambda functions, DynamoDB table, and static frontend hosted on S3 with CloudFront CDN.
+### CI/CD & Automation
+- **Jenkins**: Pipeline as Code, Multibranch Pipelines
+- **GitHub Actions**: Workflows, Runners, Secrets
+- **GitLab CI**: Pipelines, Runners, Container Registry
 
-📌 **Clone this project**
-```bash
-git clone https://github.com/engabelal/iac-aws-serverless-event.git
-```
----
-### ✅ [OpenText IAM & Patch Terraform Deployment - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov)
-- **Tech:** Terraform · Bash · VMware
-- **Summary:** Terraform code for provisioning RHEL 9.4 VMs on VMware vSphere.Originally part of the OpenText IAM & Patch Management project.
+### Containerization & Orchestration
+- **Docker**: Dockerfile, Docker Compose, Multi-stage Builds
+- **Kubernetes**: Deployments, Services, ConfigMaps, Secrets
 
-📌 **Clone this project**
-```bash
-git clone https://github.com/engabelal/iac-vmware-tf-vmprov.git
-```
----
-### ✅ [Automated MERN Stack Deployment with Ansible ](https://github.com/engabelal/cm-ansible-mern-stack)
-- **Tech:** Ansible · YAML · Bash
-- **Summary:** Automated provisioning of a complete MERN stack (MongoDB, Express, React, Node.js) lab environment using modular Ansible roles.
+### Scripting & Programming
+- **Bash**: Shell scripting, automation
+- **Python**: Automation scripts, boto3, API integration
+- **YAML/JSON**: Configuration management
 
-📌 **Clone this project**
-```bash
-git clone https://github.com/engabelal/cm-ansible-mern-stack.git
-```
----
-### ✅ [Packer AWS DevOps Base AMI](https://github.com/engabelal/packer-aws-devops-ami)
-- **Tech:** Packer · AWS EC2 · Ubuntu · Shell Scripting · Infrastructure as Code
-- **Summary:** Automated Golden AMI creation using HashiCorp Packer. Builds production-ready Ubuntu 22.04 images with pre-installed DevOps tools (AWS CLI, Git, CloudWatch Agent, SSM Agent), security hardening (UFW, Fail2ban, SSH), and automatic updates. Reduces deployment time from 15 minutes to 60 seconds.
-
-📌 **Clone this project**
-```bash
-git clone https://github.com/engabelal/packer-aws-devops-ami.git
-```
----
-### ✅ [ABCloudOps Scripts Kit](https://github.com/engabelal/abcloudops-scripts-kit)
-- **Tech:** Bash · Shell Scripting · AWS CLI · Linux · Automation
-- **Summary:** Production-ready DevOps automation scripts for cloud infrastructure management. Includes AWS cost optimization scanner, resource management tools, and system administration utilities. All scripts feature detailed documentation, color-coded output, and timestamped reports.
-
-📌 **Clone this project**
-```bash
-git clone https://github.com/engabelal/abcloudops-scripts-kit.git
-```
----
-
-## 🔗 Quick Links
-
-[📧 Email Me](mailto:eng.abelal@gmail.com) | 
-[💼 LinkedIn](https://linkedin.com/in/engabelal) | 
-[🐙 GitHub](https://github.com/engabelal)
+### Version Control
+- **Git**: Branching strategies, Pull Requests, Code Review
+- **GitHub/GitLab**: Repository management, CI/CD integration
 
 ---
 
-## 📞 Contact
-- **LinkedIn**: [linkedin.com/in/engabelal](https://linkedin.com/in/engabelal/)
-- **Email**: eng.abelal@gmail.com
+## 📊 Project Categories
+
+### Infrastructure Automation
+Projects focusing on automating infrastructure provisioning, configuration, and management.
+
+### Cloud Architecture
+Designs and implementations of scalable, secure cloud architectures.
+
+### CI/CD Pipelines
+Continuous Integration and Continuous Deployment workflows and best practices.
+
+### Security & Compliance
+Security-focused projects including IAM, encryption, and compliance automation.
+
+---
+
+## 🎯 What You'll Find Here
+
+Each project in this portfolio includes:
+
+- 📖 **Comprehensive Documentation**: Detailed README files with architecture diagrams
+- 🏗️ **Real-World Scenarios**: Production-grade configurations and patterns
+- 🔧 **Hands-On Labs**: Step-by-step guides to reproduce the setups
+- 💡 **Best Practices**: Industry-standard approaches and optimizations
+- 🐛 **Troubleshooting Guides**: Common issues and solutions
+- 📚 **Learning Resources**: Additional materials for deeper understanding
+
+---
+
+## 🌟 Featured Highlights
+
+### Ansible AWS Dynamic Inventory
+- Eliminates manual inventory management
+- Supports dynamic, auto-scaling infrastructure
+- Implements secure bastion host patterns
+- Production-ready configuration examples
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub**: [github.com/engabelal](https://github.com/engabelal)
+- **LinkedIn**: [linkedin.com/in/ahmed-belal](https://linkedin.com/in/ahmed-belal)
+- **Email**: ahmed.belal@example.com
+
+---
+
+## 🤝 Contributing
+
+Found an issue or have suggestions? Feel free to:
+1. Open an issue
+2. Submit a pull request
+3. Reach out directly
+
+---
+
+## 📝 License
+
+This portfolio is licensed under the MIT License - see individual project LICENSE files for details.
+
+---
+
+## 🙏 Acknowledgments
+
+Special thanks to the DevOps and Cloud communities for continuous learning and inspiration.
+
+---
+
+**Last Updated**: January 2025
+
+**Happy Learning & Building! 🚀**
