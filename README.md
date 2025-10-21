@@ -11,7 +11,7 @@ It highlights my work with **Infrastructure as Code (IaC)**, **automation**, **C
 
 **Senior DevOps & Cloud Engineer** passionate about automation, scalability, and cloud-native solutions.
 
-**Specialties:** AWS · Azure · Terraform · Ansible · Kubernetes · CI/CD Pipelines
+**Specialties:** AWS · Azure · Terraform · Ansible · Kubernetes · Docker · Linux · Virtualization · CI/CD Pipelines
 
 ### 💭 My Journey
 > *From managing **enterprise data centers** to building **cloud platforms**—my journey has always been driven by a passion for **automation**. I constantly built **scripts and tools** to eliminate manual work and solve real problems. That's when I found **Cloud & DevOps**—where **infrastructure meets code**, and where I now build **automated, scalable systems** that just work.*
