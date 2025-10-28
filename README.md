@@ -46,19 +46,29 @@ It highlights my work with **Infrastructure as Code (IaC)**, **automation**, **C
 
 | # | Project | Tech Stack | Description |
 |---|---------|------------|-------------|
-| 1 | [Node.js CI/CD Pipeline](https://github.com/engabelal/simple-nodejs-ec2-cicd) | GitHub Actions · Terraform · AWS | Automated CI/CD with 13s updates |
-| 2 | [Simple Web App - EC2 ASG](https://github.com/engabelal/simple-webapp-ec2-nlb-asg) | Terraform · AWS · NLB | Auto-scaling web infrastructure with multi-AZ |
-| 3 | [Serverless Event Registration](https://github.com/engabelal/iac-aws-serverless-event) | Terraform · Lambda · DynamoDB | Serverless event management system |
-| 4 | [Ansible AWS Dynamic Inventory](https://github.com/engabelal/ansible-aws-inventory-demo) | Ansible · AWS EC2 · SSH | Dynamic inventory with bastion host |
-| 5 | [OpenText IAM - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov) | Terraform · VMware | RHEL VM provisioning on vSphere |
-| 6 | [MERN Stack - Ansible](https://github.com/engabelal/cm-ansible-mern-stack) | Ansible · YAML | Automated MERN stack deployment |
-| 7 | [Packer Golden AMI](https://github.com/engabelal/packer-aws-devops-ami) | Packer · AWS · Ubuntu | Automated DevOps AMI creation |
-| 8 | [ABCloudOps Scripts Kit](https://github.com/engabelal/abcloudops-scripts-kit) | Bash · AWS CLI | Cloud automation scripts toolkit |
+| 1 | [Terraform Layered Architecture](https://github.com/engabelal/terraform-layered-mern-rds) | Terraform · AWS · S3 Backend · RDS | Production-grade layered IaC with isolated state files |
+| 2 | [Node.js CI/CD Pipeline](https://github.com/engabelal/simple-nodejs-ec2-cicd) | GitHub Actions · Terraform · AWS | Automated CI/CD with 13s updates |
+| 3 | [Simple Web App - EC2 ASG](https://github.com/engabelal/simple-webapp-ec2-nlb-asg) | Terraform · AWS · NLB | Auto-scaling web infrastructure with multi-AZ |
+| 4 | [Serverless Event Registration](https://github.com/engabelal/iac-aws-serverless-event) | Terraform · Lambda · DynamoDB | Serverless event management system |
+| 5 | [Ansible AWS Dynamic Inventory](https://github.com/engabelal/ansible-aws-inventory-demo) | Ansible · AWS EC2 · SSH | Dynamic inventory with bastion host |
+| 6 | [OpenText IAM - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov) | Terraform · VMware | RHEL VM provisioning on vSphere |
+| 7 | [MERN Stack - Ansible](https://github.com/engabelal/cm-ansible-mern-stack) | Ansible · YAML | Automated MERN stack deployment |
+| 8 | [Packer Golden AMI](https://github.com/engabelal/packer-aws-devops-ami) | Packer · AWS · Ubuntu | Automated DevOps AMI creation |
+| 9 | [ABCloudOps Scripts Kit](https://github.com/engabelal/abcloudops-scripts-kit) | Bash · AWS CLI | Cloud automation scripts toolkit |
 
 ---
 
 ## 📁 Projects Details
 
+### ✅ [Terraform Layered Architecture - MERN Stack with RDS](https://github.com/engabelal/terraform-layered-mern-rds)
+- **Tech:** Terraform · AWS VPC · RDS MariaDB · EC2 · S3 Backend · Remote State
+- **Summary:** Production-grade layered Terraform architecture solving real-world infrastructure challenges. Splits infrastructure into 3 independent layers (Network → Database → App) with isolated S3 state files, remote state data sources, and automated deployment scripts. Eliminates state locking conflicts, reduces blast radius, and enables safe parallel team collaboration. Features versioned state files with object lock for disaster recovery.
+
+📌 **Clone this project**
+```bash
+git clone https://github.com/engabelal/terraform-layered-mern-rds.git
+```
+---
 ### ✅ [Node.js CI/CD Pipeline to AWS EC2](https://github.com/engabelal/simple-nodejs-ec2-cicd)
 - **Tech:** GitHub Actions · Terraform · AWS EC2 · S3 · IAM · Systems Manager · Node.js
 - **Summary:** Production-ready CI/CD pipeline deploying Node.js applications to AWS EC2 with lightning-fast 13-second in-place updates. Features automated testing, artifact-based deployment, Infrastructure as Code with Terraform, and AWS Systems Manager for instant updates. Includes ABCloudOps Quote Generator demo app with professional UI.
