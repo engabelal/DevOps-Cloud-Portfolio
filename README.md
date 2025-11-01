@@ -46,20 +46,30 @@ It highlights my work with **Infrastructure as Code (IaC)**, **automation**, **C
 
 | # | Project | Tech Stack | Description |
 |---|---------|------------|-------------|
-| 1 | [Terraform Layered Architecture](https://github.com/engabelal/terraform-layered-mern-rds) | Terraform · AWS · S3 Backend · RDS | Production-grade layered IaC with isolated state files |
-| 2 | [Node.js CI/CD Pipeline](https://github.com/engabelal/simple-nodejs-ec2-cicd) | GitHub Actions · Terraform · AWS | Automated CI/CD with 13s updates |
-| 3 | [Simple Web App - EC2 ASG](https://github.com/engabelal/simple-webapp-ec2-nlb-asg) | Terraform · AWS · NLB | Auto-scaling web infrastructure with multi-AZ |
-| 4 | [Serverless Event Registration](https://github.com/engabelal/iac-aws-serverless-event) | Terraform · Lambda · DynamoDB | Serverless event management system |
-| 5 | [Ansible AWS Dynamic Inventory](https://github.com/engabelal/ansible-aws-inventory-demo) | Ansible · AWS EC2 · SSH | Dynamic inventory with bastion host |
-| 6 | [OpenText IAM - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov) | Terraform · VMware | RHEL VM provisioning on vSphere |
-| 7 | [MERN Stack - Ansible](https://github.com/engabelal/cm-ansible-mern-stack) | Ansible · YAML | Automated MERN stack deployment |
-| 8 | [Packer Golden AMI](https://github.com/engabelal/packer-aws-devops-ami) | Packer · AWS · Ubuntu | Automated DevOps AMI creation |
-| 9 | [ABCloudOps Scripts Kit](https://github.com/engabelal/abcloudops-scripts-kit) | Bash · AWS CLI | Cloud automation scripts toolkit |
+| 1 | [ECS Fargate Blue/Green Deployment](https://github.com/engabelal/ecs-fargate-terraform-deployment) | Terraform · ECS Fargate · CodeDeploy · GitHub Actions | Production-ready Blue/Green deployment with automated CI/CD |
+| 2 | [Terraform Layered Architecture](https://github.com/engabelal/terraform-layered-mern-rds) | Terraform · AWS · S3 Backend · RDS | Production-grade layered IaC with isolated state files |
+| 3 | [Node.js CI/CD Pipeline](https://github.com/engabelal/simple-nodejs-ec2-cicd) | GitHub Actions · Terraform · AWS | Automated CI/CD with 13s updates |
+| 4 | [Simple Web App - EC2 ASG](https://github.com/engabelal/simple-webapp-ec2-nlb-asg) | Terraform · AWS · NLB | Auto-scaling web infrastructure with multi-AZ |
+| 5 | [Serverless Event Registration](https://github.com/engabelal/iac-aws-serverless-event) | Terraform · Lambda · DynamoDB | Serverless event management system |
+| 6 | [Ansible AWS Dynamic Inventory](https://github.com/engabelal/ansible-aws-inventory-demo) | Ansible · AWS EC2 · SSH | Dynamic inventory with bastion host |
+| 7 | [OpenText IAM - VMware](https://github.com/engabelal/iac-vmware-tf-vmprov) | Terraform · VMware | RHEL VM provisioning on vSphere |
+| 8 | [MERN Stack - Ansible](https://github.com/engabelal/cm-ansible-mern-stack) | Ansible · YAML | Automated MERN stack deployment |
+| 9 | [Packer Golden AMI](https://github.com/engabelal/packer-aws-devops-ami) | Packer · AWS · Ubuntu | Automated DevOps AMI creation |
+| 10 | [ABCloudOps Scripts Kit](https://github.com/engabelal/abcloudops-scripts-kit) | Bash · AWS CLI | Cloud automation scripts toolkit |
 
 ---
 
 ## 📁 Projects Details
 
+### ✅ [ECS Fargate Blue/Green Deployment with Terraform & GitHub Actions](https://github.com/engabelal/ecs-fargate-terraform-deployment)
+- **Tech:** Terraform · AWS ECS Fargate · CodeDeploy · GitHub Actions · ALB · ECR · DynamoDB · Route53
+- **Summary:** Production-ready containerized application deployment using AWS ECS Fargate with automated Blue/Green deployment strategy via CodeDeploy. Features modular Terraform architecture with 9 isolated modules, GitHub Actions CI/CD pipeline with OIDC authentication, automated Docker image builds and pushes to ECR, zero-downtime deployments with automatic rollback, and comprehensive automation scripts for setup, deployment, and cleanup. Includes URL shortener demo application with FastAPI backend.
+
+📌 **Clone this project**
+```bash
+git clone https://github.com/engabelal/ecs-fargate-terraform-deployment.git
+```
+---
 ### ✅ [Terraform Layered Architecture - MERN Stack with RDS](https://github.com/engabelal/terraform-layered-mern-rds)
 - **Tech:** Terraform · AWS VPC · RDS MariaDB · EC2 · S3 Backend · Remote State
 - **Summary:** Production-grade layered Terraform architecture solving real-world infrastructure challenges. Splits infrastructure into 3 independent layers (Network → Database → App) with isolated S3 state files, remote state data sources, and automated deployment scripts. Eliminates state locking conflicts, reduces blast radius, and enables safe parallel team collaboration. Features versioned state files with object lock for disaster recovery.
